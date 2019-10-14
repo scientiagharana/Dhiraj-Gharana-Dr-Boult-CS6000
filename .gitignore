@@ -1,0 +1,7 @@
+#Don't track contents of files with the following file extensions
+*.gz
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
